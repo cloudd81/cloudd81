@@ -1,4 +1,5 @@
-### Hi there 👋
+### <h2>Hi there 👋</h2>
+
 
 <!--
 **cloudd81/cloudd81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://ddcloud.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=plastic&logo=000000&logoColor=black"/></a>
+<a href="https://ddcloud.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=plastic&logo=Tistory&logoColor=black"/></a>
