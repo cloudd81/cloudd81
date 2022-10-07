@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>⚡ SNS & Portfolio ⚡</p>
 </div>
 <div align=center>
 	<a href="https://ddcloud.tistory.com/">
