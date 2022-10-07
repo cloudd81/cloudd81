@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=slide&color=auto&height=200&section=header&text=cloudd%20Github&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=cloudd%20Github&fontSize=90" />	
 </div>
 
 <div align=center>
