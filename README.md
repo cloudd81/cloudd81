@@ -1,4 +1,4 @@
-### <h2>Hi there 👋</h2>
+### <h2>Hi there, welcome 👋</h2>
 
 
 <!--
@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=cloudd%20Github&fontSize=90" />	
+</div>
 
 <a href="https://ddcloud.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=plastic&logo=Tistory&logoColor=black"/></a>
