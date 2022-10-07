@@ -20,4 +20,10 @@ Here are some ideas to get you started:
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=cloudd%20Github&fontSize=90" />	
 </div>
 
-<a href="https://ddcloud.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-white?style=plastic&logo=Tistory&logoColor=black"/></a>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://ddcloud.tistory.com/">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white"/>
+	</a>
