@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=cloudd%20Github&fontSize=90" />	
 </div>
-
+<br>
 <div align=center>
 	<p>⚡ SNS & Portfolio ⚡</p>
 </div>
